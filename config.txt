@@ -1,0 +1,12 @@
+4 # The number of vertices
+1 # Make plots of interesting quantities? [1/0]
+1 # Make a movie in the end? [1/0]
+0.5 # Maximum step size
+1000 # Number of iterations
+10 # frequency of OFF file output. Must be a multiple 10!
+1 # delta minimum vertex separation.
+10 # Max swaps
+10 # swap length
+2 # upper bound for random number generator which performs T1 swaps
+
+
